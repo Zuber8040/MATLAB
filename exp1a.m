@@ -1,3 +1,4 @@
+% i =1,j=1,radius=80,city=100
 clc;
 %inputing the values from the user
 i = input('Enter the value of i : ');

@@ -1,3 +1,4 @@
+%16,z
 clc;
 close all;
 s=input("Enter the number of codewords: ");

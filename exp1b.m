@@ -1,3 +1,4 @@
+% i =1,j=1
 clc;
 clear all;
 close all;

@@ -1,3 +1,4 @@
+%v=26,f=1850000000,angle=0
 prompt_v='Enter the value of v: ';
 v=input(prompt_v);
 prompt_f='Enter the value of frequency(f): '; 

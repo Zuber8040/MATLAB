@@ -1,3 +1,4 @@
+%I=1,J=2,N=4
 clc;
 i=input('Enter non negative value of i = ');
 j=input('enter non negative value of j =');
